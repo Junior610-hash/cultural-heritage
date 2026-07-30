@@ -1,0 +1,1 @@
+# www.oriki.dignity.com
