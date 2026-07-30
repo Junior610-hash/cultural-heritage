@@ -165,7 +165,7 @@ display: flex;
  padding: 20px;
 }
 
-/* ✅ Make the entire layout responsive */
+/* Make the entire layout responsive */
 @media (max-width: 1024px) {
 
   .link {
@@ -193,7 +193,7 @@ display: flex;
 }
 
 
-/* ✅ Tablet and smaller screens */
+/* Tablet screens */
 @media (max-width: 768px) {
 
   .link {
@@ -221,7 +221,7 @@ display: flex;
     margin-left: 20px;
   }
 
-  /* Stack cards vertically */
+  /* cards  */
   .card, .card2 {
     flex-direction: column;
     height: auto;
@@ -241,7 +241,7 @@ display: flex;
 }
 
 
-/* ✅ Smartphones (small phones like itel, Tecno etc.) */
+/*  Smartphones (small phones like itel,tecno.) */
 @media (max-width: 480px) {
 
   body {

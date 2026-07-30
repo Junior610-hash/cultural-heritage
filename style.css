@@ -39,11 +39,12 @@ body {
 }
 
 .dropdown-menu a {
-  padding-left: 30px;
+ padding-left: 30px;
 }
 
 .dropdown.active .dropdown-menu {
-display:block ;
+display:block;
+
 }
 
 .menu a:hover,
@@ -63,7 +64,7 @@ display:block ;
   }
 
   .dropdown-menu {
-    position: absolute;
+    position: fixed;
     top: 100%;
     width: 180px;
   }
